@@ -17,7 +17,7 @@ public class ImplementingInterface implements Interface1{
 		ImplementingInterface obj = new ImplementingInterface();
 		System.out.print("Name of the car " );
 		obj.car();
-		System.out.print("Color ");
+		System.out.print("Color");
 		obj.carColor();
 		
 		
